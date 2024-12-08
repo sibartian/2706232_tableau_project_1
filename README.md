@@ -6,6 +6,6 @@ To view interactive dashboard, please go with this link:
 [View the Interactive Dashboard](https://public.tableau.com/app/profile/art.sib/viz/book-final/DashboardMechaGoods?publish=yes)
 
 Image Of a Dashboard:
-![image](https://github.com/user-attachments/assets/d81c5b7d-ce18-4948-b61f-7f783b771533)
+![image](https://github.com/user-attachments/assets/fea90e91-bba1-455d-83b9-ee7ff5a795f4)
 
 I also left Tableau Packaged Workbook in repository files. 
